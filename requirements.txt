@@ -1,0 +1,7 @@
+playwright
+fastapi
+uvicorn[standard]
+jinja2
+openpyxl
+apscheduler
+python-multipart
